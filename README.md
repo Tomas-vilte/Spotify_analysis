@@ -3,7 +3,7 @@
 ## Contenidos
 0. [Introducción](#introducción)
 1. [Instalación](#instalación) 
-2. [Usos](#usos)
+2. [Uso](#uso)
 3. [Arquitectura del proyecto](#arquitecturadelproyecto)
 
 
@@ -33,3 +33,6 @@ También necesitará una cuenta de [AWS](https://aws.amazon.com/es/?nc2=h_lg) , 
 <a name="usage"></a>
 ## Usos 
 Ejecute los scripts con un diccionario de sus artistas favoritos o listas de reproducción para recopilar datos sobre ellos y guardarlos localmente o en S3.
+
+
+
